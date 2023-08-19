@@ -1,2 +1,2 @@
--- This finally creates a database.
-DROP DATABASE htbn_0c_0;
+-- This finally deletes a database.
+DROP DATABASE hbtn_0c_0;
