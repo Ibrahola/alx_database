@@ -1,3 +1,4 @@
+-- This creates a table called first_table
 CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
 SHOW DATABASES;
 USE hbtn_0c_0;
