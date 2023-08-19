@@ -1,3 +1,4 @@
+-- This is to insert values into table
 CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
 SHOW DATABASES;
 USE hbtn_0c_0;
