@@ -5,4 +5,3 @@ CREATE TABLE IF NOT EXISTS  first_table (id int, name varchar(256));
 INSERT INTO first_table VALUES ('1', 'First name'), ('2', 'Last name'), ('3', 'name');
 SELECT *FROM first_table;
 TRUNCATE TABLE first_table;
-SELECT *FROM first_table;
