@@ -2,4 +2,4 @@
 CREATE DATABASE IF NOT EXISTS hbtn_0d_usa;
 USE hbtn_0d_usa;
 CREATE TABLE IF NOT EXISTS states (id int, name varchar(256));
-INSERT INTO states VALUES ("California"), ("Arizona"), ("Texas");
+INSERT INTO states VALUES ("California"), ("Arizona"), ("Nevada"), ("Illinois"), ("New York"), ("Louisiana")
